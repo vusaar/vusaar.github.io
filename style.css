@@ -1,0 +1,19 @@
+.content{
+    width: 35%; 
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.clock{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+img{
+    height: 70%;    
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
